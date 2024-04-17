@@ -1,5 +1,5 @@
 from joblib import load
-from useful_shit import cleaning
+from useful_tools import cleaning
 
 clf_loaded = load("model_MNB.joblib")
 vectorizer_loaded = load("tfidf_vectorizer_1.joblib")

@@ -2,28 +2,7 @@
 test na 180 tweetach wygenerowanych przez chat, 
 tweety olabelowane (wygenerowane z labelem), 
 w pliku znajduja sie juz oczyszczone dane tekstowe skryptem, 
-ktory znajdziecie w useful_shit.py
-
-
-accuracy: 0.7777777777777778
-aconfusion mtrix :
- [[64 26]
- [14 76]]
-C. Report :
-               precision    recall  f1-score   support
-
-           0       0.82      0.71      0.76        90
-           1       0.75      0.84      0.79        90
-
-    accuracy                           0.78       180
-   macro avg       0.78      0.78      0.78       180
-weighted avg       0.78      0.78      0.78       180
-
-wiadomo wynik do poprawy ale przynajmej 
-jak sie pani zapyta czy cos mamy to mozemy powiedziec ze 'prawie'
-
-wgl moglem dac to w readme normalnie w repo a nie taki cyrk w tych komentarzach tak teraz mysle///
-
+ktory znajdziecie w useful_tools.py
 '''
 from joblib import load
 import pandas as pd
