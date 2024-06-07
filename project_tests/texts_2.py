@@ -1,5 +1,5 @@
 # texts_2.py
-"""**5G caused the COVID pandemic** 
+additional_info = """**5G caused the COVID pandemic** 
 There is no scientific evidence to support the claim that 5G technology caused the COVID-19 pandemic. The virus is caused by a specific pathogen, SARS-CoV-2, and not by radio waves or electromagnetic fields. The misconception may have arisen due to a lack of understanding about the technology and the virus, as well as the fact that both 5G and COVID-19 are new and rapidly developing.
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters
 https://www.cdc.gov/coronavirus/2019-ncov/faq.html#5G
