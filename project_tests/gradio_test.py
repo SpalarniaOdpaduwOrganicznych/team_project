@@ -26,18 +26,30 @@ def find_special_text(text):
 
 # """"frontend from hell"""""
 with gr.Blocks(css="""
-    .gradio-container {background-color: #348210;}
-    h1 {color: black; font-size: 2em;}
-    .description {font-size: 1.2em;}
+    .gradio-container {
+        background-color: #2e8b57;
+    }
+    
+    h1 {
+        color: #ffffff;
+        font-size: 2em;
+    }
+    
+    .description {
+        font-size: 1.2em;
+        color: #f5f5f5;
+    }
+    
     .explanation-box {
-        background-color: grey;
+        background-color: #4f4f4f;
         padding: 10px;
-        border: 2px solid black;
+        border: 2px solid #ffffff;
         border-radius: 5px;
         margin-top: 20px;
-        color: yellow;
+        color: #ffd700;
         display: none;
     }
+    
     .explanation-box.visible {
         display: block;
     }
