@@ -1,9 +1,3 @@
-''' 
-test na 180 tweetach wygenerowanych przez chat, 
-tweety olabelowane (wygenerowane z labelem), 
-w pliku znajduja sie juz oczyszczone dane tekstowe skryptem, 
-ktory znajdziecie w useful_tools.py
-'''
 from joblib import load
 import pandas as pd
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
