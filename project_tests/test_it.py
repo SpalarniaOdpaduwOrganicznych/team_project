@@ -1,3 +1,4 @@
+#terminal version of model
 from joblib import load
 from useful_tools import cleaning
 
