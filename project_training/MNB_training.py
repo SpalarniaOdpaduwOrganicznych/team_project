@@ -10,7 +10,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 from sklearn.model_selection import train_test_split
 from joblib import dump
 
-df_train = pd.read_csv("project_data/cleaned_train_data_1.csv")
+df_train = pd.read_csv("project_data/cleaned_train_data_2.csv")
 
 X_train, X_test, y_train, y_test = train_test_split(df_train['tweet'], df_train['label'], test_size=0.1,random_state=69)
 
