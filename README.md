@@ -25,4 +25,5 @@ For detailed insights and further instructions, please refer to the associated r
 - Clone the repository
 - Run file gradio_test.py (BE SURE THAT YOU ARE IN THE CORRECT DIRECTORY WHILE RUNNING THE FILE)
 - In the terminal output you will see a link to the prototype hosted on the localhost
-**MAKE SURE THAT YOU HAVE VALID PYTHON VERSION ON YOUR DEVICE WITH INSTALLED ALL LIBRARIES AND DEPENDENCIES **
+
+**MAKE SURE THAT YOU HAVE VALID PYTHON VERSION ON YOUR DEVICE WITH INSTALLED ALL LIBRARIES AND DEPENDENCIES**
