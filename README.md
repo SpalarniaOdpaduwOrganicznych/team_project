@@ -20,3 +20,10 @@ This repository contains the code and files used in our project.
 - Miscellaneous .txt files: Necessary for running the prototype.
 
 For detailed insights and further instructions, please refer to the associated report and documentation within the repository.
+
+**
+To run the demo by yourself you will have to:**
+- Clone the repository
+- Run file gradio_test.py (BE SURE THAT YOU ARE IN THE CORRECT DIRECTORY WHILE RUNNING THE FILE)
+- In the terminal output you will see a link to the prototype hosted on the localhost
+**MAKE SURE THAT YOU HAVE VALID PYTHON VERSION ON YOUR DEVICE WITH INSTALLED ALL LIBRARIES AND DEPENDENCIES **
